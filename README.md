@@ -16,7 +16,7 @@ Want to know more about my experience?
 👉 [My CV](./cv.pdf)
 
 ## Researchgate and Google Scholar
-Check out my profile 
+Check out my Research
 👉 [Researchgate](https://www.researchgate.net/profile/Hakeem-Adekunle?ev=hdr_xprf)
 
 ## Ongoing Project
