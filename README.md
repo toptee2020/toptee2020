@@ -1,6 +1,9 @@
 # 👋 Hi, I'm Hakeem Adekunle
 
-I am a data scientist as well as a Meta-Analyst, I specialise in Bayesian, Measurement error and Causal Inference, looking for an entry level position and also to collaborate on developing new methodological approach to solve the disparity in Publich Health.
+A data scientist as well as a Meta-Analyst, I specialise in Bayesian, Measurement error and Causal Inference, looking for an entry level position and also to collaborate on developing new methodological approach to solve the disparity in Publich Health.
+
+# 🧑‍💻 Machine Learning Tools:
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
 Publications
 -  **Adekunle**, H. T. & Fasoranbaku, A. (2021). Predictive Ability of Artificial Neural Network and Autoregressive Integrated Moving Average using COVID-19 cases in Nigeria. International journal of infectious Disease. (Link: https://bit.ly/3KrTYE4)
