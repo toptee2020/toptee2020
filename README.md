@@ -1,7 +1,6 @@
-Research Interest
+# 👋 Hi, I'm Hakeem Adekunle
 
-I am interested in Bayessian Jackknife Empirical Likelihood, Causal Inference and Meta-Analysis of Clinical Studies. 
-I'm looking to collaborate on developing new methodological approach to solve the disparity in Publich Health dataset.
+I am a data scientist as well as a Meta-Analyst, I specialise in Bayesian, Measurement error and Causal Inference, looking for an entry level position and also to collaborate on developing new methodological approach to solve the disparity in Publich Health.
 
 Publications
 -  **Adekunle**, H. T. & Fasoranbaku, A. (2021). Predictive Ability of Artificial Neural Network and Autoregressive Integrated Moving Average using COVID-19 cases in Nigeria. International journal of infectious Disease. (Link: https://bit.ly/3KrTYE4)
