@@ -3,7 +3,6 @@
 A data scientist as well as a Meta-Analyst, I specialise in Bayesian, Measurement error and Causal Inference, looking for an entry level position and also to collaborate on developing new methodological approach to solve the disparity in Publich Health.
 
 #### 🧑‍💻 Machine Learning Tools:
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Logo"/>
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R Logo"/>
@@ -24,13 +23,7 @@ Association
 -  Georgia State Zeta Chapter of Pi Mu Epsilon
 -  Laboratory Interdisciplinary Statistical Association (LISA)
 
-Software and Packages
 
-- R studio [ggplot2, Tidyverse, Netmeta, spatstat, Kedd, boot, nleqslv, glm]
-- Python [PyMC, Pandas, Seaborn, Matplotlib, Plotly]
-- SAS
-- Matlab
-- STATA
   
 Conference and Activities
 
