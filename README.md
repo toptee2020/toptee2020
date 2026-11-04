@@ -50,11 +50,16 @@ Explore interactive project summaries and publications on my [professional portf
 - Working on an **R package** for Bayesian Jackknife Empirical Likelihood.
 - Investigating quantitative approaches to **health disparities, diabetes, and healthcare risk**.
 
-## 🏆 Awards and fellowships
+## 🎓 Scholarships and fellowships
+
+- **Georgia State University** — graduate scholarship.
+- **Pan African University** — full MSc fellowship.
+- **African Institute for Mathematical Sciences (AIMS)** — fellowship supporting mathematical sciences study.
+- **CDC Public Health Informatics Fellowship** — September 2026–August 2027.
+
+## 🏆 Awards and recognition
 
 - **UCB Health Equity Value Case Game (2025)** — health equity challenge recognition.
-- **Georgia State University** — graduate scholarship (previously listed as $90,000).
-- **Pan African University** — full MSc fellowship.
 - **AJPS & Journal of Bionature** — Reviewer of the Year recognition.
 
 ## 🤝 Professional affiliations
